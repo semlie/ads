@@ -1,0 +1,4 @@
+I:\myDocument\Visual Studio 2013\Projects\GoogAds\BI\bin\Debug\BI.dll
+I:\myDocument\Visual Studio 2013\Projects\GoogAds\BI\bin\Debug\BI.pdb
+I:\myDocument\Visual Studio 2013\Projects\GoogAds\BI\obj\Debug\BI.dll
+I:\myDocument\Visual Studio 2013\Projects\GoogAds\BI\obj\Debug\BI.pdb

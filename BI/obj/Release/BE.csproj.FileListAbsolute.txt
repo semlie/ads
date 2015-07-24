@@ -1,0 +1,5 @@
+i:\mydocument\visual studio 2013\Projects\GoogAds\BI\bin\Release\BI.dll
+i:\mydocument\visual studio 2013\Projects\GoogAds\BI\bin\Release\BI.pdb
+i:\mydocument\visual studio 2013\Projects\GoogAds\BI\obj\Release\BE.csprojResolveAssemblyReference.cache
+i:\mydocument\visual studio 2013\Projects\GoogAds\BI\obj\Release\BI.dll
+i:\mydocument\visual studio 2013\Projects\GoogAds\BI\obj\Release\BI.pdb

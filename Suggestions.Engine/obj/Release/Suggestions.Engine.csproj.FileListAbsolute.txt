@@ -1,0 +1,5 @@
+i:\mydocument\visual studio 2013\Projects\GoogAds\Suggestions.Engine\bin\Release\Suggestions.Engine.dll
+i:\mydocument\visual studio 2013\Projects\GoogAds\Suggestions.Engine\bin\Release\Suggestions.Engine.pdb
+i:\mydocument\visual studio 2013\Projects\GoogAds\Suggestions.Engine\obj\Release\Suggestions.Engine.csprojResolveAssemblyReference.cache
+i:\mydocument\visual studio 2013\Projects\GoogAds\Suggestions.Engine\obj\Release\Suggestions.Engine.dll
+i:\mydocument\visual studio 2013\Projects\GoogAds\Suggestions.Engine\obj\Release\Suggestions.Engine.pdb

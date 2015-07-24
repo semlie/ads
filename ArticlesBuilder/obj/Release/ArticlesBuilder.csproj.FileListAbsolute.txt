@@ -1,0 +1,4 @@
+i:\mydocument\visual studio 2013\Projects\GoogAds\ArticlesBuilder\bin\Release\ArticlesBuilder.dll
+i:\mydocument\visual studio 2013\Projects\GoogAds\ArticlesBuilder\bin\Release\ArticlesBuilder.pdb
+i:\mydocument\visual studio 2013\Projects\GoogAds\ArticlesBuilder\obj\Release\ArticlesBuilder.dll
+i:\mydocument\visual studio 2013\Projects\GoogAds\ArticlesBuilder\obj\Release\ArticlesBuilder.pdb

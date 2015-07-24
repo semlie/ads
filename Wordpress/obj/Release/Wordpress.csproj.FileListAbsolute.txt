@@ -1,0 +1,8 @@
+i:\mydocument\visual studio 2013\Projects\GoogAds\Wordpress\bin\Release\Wordpress.dll.config
+i:\mydocument\visual studio 2013\Projects\GoogAds\Wordpress\bin\Release\Wordpress.dll
+i:\mydocument\visual studio 2013\Projects\GoogAds\Wordpress\bin\Release\Wordpress.pdb
+i:\mydocument\visual studio 2013\Projects\GoogAds\Wordpress\bin\Release\CookComputing.XmlRpcV2.dll
+i:\mydocument\visual studio 2013\Projects\GoogAds\Wordpress\bin\Release\WordPressSharp.dll
+i:\mydocument\visual studio 2013\Projects\GoogAds\Wordpress\obj\Release\Wordpress.csprojResolveAssemblyReference.cache
+i:\mydocument\visual studio 2013\Projects\GoogAds\Wordpress\obj\Release\Wordpress.dll
+i:\mydocument\visual studio 2013\Projects\GoogAds\Wordpress\obj\Release\Wordpress.pdb

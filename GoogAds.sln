@@ -1,0 +1,117 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogAds", "GoogAds.csproj", "{CE44D60C-D8BB-4EAC-81EE-2B1D12239211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suggestions", "..\Suggestions\Suggestions.csproj", "{B862C031-0793-4579-998C-2486056C2BAE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "translatePOfiles", "..\translatePOfiles\translatePOfiles.pyproj", "{C6D1B7FA-14FB-4907-89E9-245471EAE419}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "js", "http://localhost:58069", "{35857498-E854-46A2-ADE4-74A8B7839112}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58069"
+		Debug.AspNetCompiler.PhysicalPath = "C:\ionic\js\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58069\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58069"
+		Release.AspNetCompiler.PhysicalPath = "C:\ionic\js\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58069\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "C:\ionic\js\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataService", "..\DataService\DataService.csproj", "{7043B0D8-80E6-4A7C-89C1-8A1DD419ADA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGoogleAds", "UnitTestGoogleAds\UnitTestGoogleAds.csproj", "{816BD32E-52BB-4B45-AD8C-88BCAEB8CADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uiAdsense", "uiAdsense\uiAdsense.csproj", "{2B80A5F6-BDEB-4F23-89A4-18897B7AEB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suggestions.Engine", "Suggestions.Engine\Suggestions.Engine.csproj", "{E2DF4440-1136-4021-8ACC-E478A4AEC49B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeSearchApi", "YoutubeSearchApi\YoutubeSearchApi.csproj", "{478B31A1-6D14-4BEB-A1D1-17A1EB1EE043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "googleSherchApi", "..\googleSherchApi\googleSherchApi.csproj", "{25A9A797-D919-4EFA-AAFB-2C556ED50C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTestGoogleSearch", "UnitTestTestGoogleSearch\UnitTestTestGoogleSearch.csproj", "{379C0116-BB96-40B4-B5B7-868984FE8869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticlesBuilder", "ArticlesBuilder\ArticlesBuilder.csproj", "{129BFAF9-1BB1-4C4B-8322-3E7309AEDE22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BE", "BI\BE.csproj", "{1F55BA1E-0486-4F21-B695-245458D5DD7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wordpress", "Wordpress\Wordpress.csproj", "{B7185EBA-B17D-4CAC-B001-84B2334CEEC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE44D60C-D8BB-4EAC-81EE-2B1D12239211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE44D60C-D8BB-4EAC-81EE-2B1D12239211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE44D60C-D8BB-4EAC-81EE-2B1D12239211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE44D60C-D8BB-4EAC-81EE-2B1D12239211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B862C031-0793-4579-998C-2486056C2BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B862C031-0793-4579-998C-2486056C2BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B862C031-0793-4579-998C-2486056C2BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B862C031-0793-4579-998C-2486056C2BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D1B7FA-14FB-4907-89E9-245471EAE419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D1B7FA-14FB-4907-89E9-245471EAE419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35857498-E854-46A2-ADE4-74A8B7839112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35857498-E854-46A2-ADE4-74A8B7839112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35857498-E854-46A2-ADE4-74A8B7839112}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{35857498-E854-46A2-ADE4-74A8B7839112}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{7043B0D8-80E6-4A7C-89C1-8A1DD419ADA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7043B0D8-80E6-4A7C-89C1-8A1DD419ADA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7043B0D8-80E6-4A7C-89C1-8A1DD419ADA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7043B0D8-80E6-4A7C-89C1-8A1DD419ADA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816BD32E-52BB-4B45-AD8C-88BCAEB8CADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816BD32E-52BB-4B45-AD8C-88BCAEB8CADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816BD32E-52BB-4B45-AD8C-88BCAEB8CADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816BD32E-52BB-4B45-AD8C-88BCAEB8CADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B80A5F6-BDEB-4F23-89A4-18897B7AEB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B80A5F6-BDEB-4F23-89A4-18897B7AEB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B80A5F6-BDEB-4F23-89A4-18897B7AEB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B80A5F6-BDEB-4F23-89A4-18897B7AEB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2DF4440-1136-4021-8ACC-E478A4AEC49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DF4440-1136-4021-8ACC-E478A4AEC49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DF4440-1136-4021-8ACC-E478A4AEC49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DF4440-1136-4021-8ACC-E478A4AEC49B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478B31A1-6D14-4BEB-A1D1-17A1EB1EE043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478B31A1-6D14-4BEB-A1D1-17A1EB1EE043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478B31A1-6D14-4BEB-A1D1-17A1EB1EE043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478B31A1-6D14-4BEB-A1D1-17A1EB1EE043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A9A797-D919-4EFA-AAFB-2C556ED50C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A9A797-D919-4EFA-AAFB-2C556ED50C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A9A797-D919-4EFA-AAFB-2C556ED50C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A9A797-D919-4EFA-AAFB-2C556ED50C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{379C0116-BB96-40B4-B5B7-868984FE8869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379C0116-BB96-40B4-B5B7-868984FE8869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379C0116-BB96-40B4-B5B7-868984FE8869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379C0116-BB96-40B4-B5B7-868984FE8869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129BFAF9-1BB1-4C4B-8322-3E7309AEDE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129BFAF9-1BB1-4C4B-8322-3E7309AEDE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129BFAF9-1BB1-4C4B-8322-3E7309AEDE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129BFAF9-1BB1-4C4B-8322-3E7309AEDE22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F55BA1E-0486-4F21-B695-245458D5DD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F55BA1E-0486-4F21-B695-245458D5DD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F55BA1E-0486-4F21-B695-245458D5DD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F55BA1E-0486-4F21-B695-245458D5DD7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7185EBA-B17D-4CAC-B001-84B2334CEEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7185EBA-B17D-4CAC-B001-84B2334CEEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7185EBA-B17D-4CAC-B001-84B2334CEEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7185EBA-B17D-4CAC-B001-84B2334CEEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
